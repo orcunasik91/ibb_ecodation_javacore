@@ -5,6 +5,7 @@ public class _02_Variables {
         //Veri değişken isimlerini yazarken;
         //veri isimlendirmeleri;
         //1-) isim veya sıfat, zamir kullanmamız lazım.
+        //Anlamlı ve açıklayıcı isimler seçmemiz lazım.
         int schoolNumber = 34;
         System.out.println(schoolNumber);
         schoolNumber = 35;
@@ -29,5 +30,10 @@ public class _02_Variables {
         //int 44schoolNumber = 11; //sayıyla yazamazsınız
         //int ~schoolNumber = 11; //özel simgeyle ($ _ hariç) yazamazsınız
         //int `` schoolNumber = 11; //özel simgeyle ($ _ hariç) yazamazsınız
+        //int school number = 66; //değişkenlerde arada boşluk bırakılmaz
+
+        //SABIT
+        final int MAX_STUDENT = 100;
+        System.out.println(MAX_STUDENT);
     }
 }
