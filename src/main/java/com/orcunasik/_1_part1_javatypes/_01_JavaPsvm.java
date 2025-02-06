@@ -5,7 +5,7 @@ package com.orcunasik._1_part1_javatypes;
 * Multiple
 * Comments
 * */
-public class _01_JavaTypes {
+public class _01_JavaPsvm {
     //psvm => tab
     public static void main(String[] args) {
         //Çıktı-> sout => tab
