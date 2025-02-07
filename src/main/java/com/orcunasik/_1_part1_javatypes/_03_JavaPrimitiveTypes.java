@@ -2,6 +2,7 @@ package com.orcunasik._1_part1_javatypes;
 
 public class _03_JavaPrimitiveTypes {
     public static void main(String[] args) {
+        //PRIMITIVE TYPES
         //Primitive Types : 8 tanedir. null değer alamaz.
         //Tam Sayılar (4)
         byte b1 = 127;
